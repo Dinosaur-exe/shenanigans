@@ -318,6 +318,9 @@ commit die
 führer
 fuhrer
 nazi
+nazis
+mazi
+mazis
 neonazi
 neon@zi
 neo nazi
@@ -336,7 +339,9 @@ putlin
 kkk
 сука блять
 cyka blyet
+cyka blyat
 suka blyat
+suka blyet
 mat' ublyudok CYKA
 stfu
 st fu
